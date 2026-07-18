@@ -1,4 +1,4 @@
-Data Cleaning Automation with Python
+*Data Cleaning Automation with Python*
 ​This project demonstrates a Python-based automation tool designed to clean Excel files efficiently. It removes duplicate entries, ensuring data accuracy and saving time for repetitive tasks.
 ​Features
 ​Automated Data Cleaning: Automatically identifies and removes duplicate rows from Excel files.
@@ -12,3 +12,4 @@ Data Cleaning Automation with Python
 ​Ensure you have the required libraries installed: pip install openpyxl
 ​Place your Excel file in the directory.
 ​Run the script: python your_script_name.py
+*created by:ASHRAFUZZAMAN*
